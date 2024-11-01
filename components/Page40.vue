@@ -9,7 +9,7 @@
     </p>
     <p class="text-size-lg">
       手元で試している感じでは、failOnWarn を false
-      にしないとビルドが壊れるのって注意
+      にしないとビルドが壊れるので注意
     </p>
   </div>
 </template>
