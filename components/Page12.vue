@@ -12,7 +12,7 @@
     <p class="pl-6 text-size-sm">
       <code>{{ `<form action={serverAction}>` }}</code>
     </p>
-    <p class="pl-6 text-size-sm underline-white underline underline-dashed">
+    <p class="pl-6 text-size-sm">
       通常 form の action 属性に関数を渡すことはできないが、React では可能。
     </p>
     <p class="text-size-xl">
